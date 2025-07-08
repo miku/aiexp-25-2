@@ -2,6 +2,11 @@
 
 > 2025-07-17, 13:00, Martin Czygan -- UBL KI MEETUP #4
 
+## Summaries
+
+* Navigating AI ...
+* Bibliothekskongress 2025 / AI TRACK
+
 ## Demos
 
 ### Chat with your documents (PDF)
