@@ -5,7 +5,7 @@
 ## Summaries
 
 * Navigating AI ...
-* Bibliothekskongress 2025 / AI TRACK
+* Bibliothekskongress 2025 / AI TRACK, https://pdf-program.abstractserver.com/?congress=bid2025
 
 ## Demos
 
