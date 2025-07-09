@@ -1,11 +1,12 @@
 # Libraries and AI (7/2025)
 
-> 2025-07-17, 13:00, Martin Czygan -- UBL KI MEETUP #4, "Data Magic"
+> 2025-07-17, 13:00, Martin Czygan -- UBL KI MEETUP #4, "Document Chat"
 
 ## Summaries
 
 * Navigating AI ...
 * Bibliothekskongress 2025 / AI TRACK, https://pdf-program.abstractserver.com/?congress=bid2025
+* prompt prep
 
 ## Demos
 
@@ -36,5 +37,4 @@ You can do this with any document set.
 ## References
 
 * [](https://discovery.ucl.ac.uk/id/eprint/10209236/1/Navigating-Artificial-Intelligence-for-Cultural-Heritage-Organisations.pdf)
-
 
