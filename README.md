@@ -34,7 +34,12 @@ You can do this with any document set.
 * expose a library catalog to a chat interface
 * make it so that we can find books, text, new items, but also images, digitized pages, and more
 
+## BID CONGRESS 2025 Review
+
+![](static/open-bid-2025-ki-keyword-rga-screenie.png)
+
 ## References
 
 * [](https://discovery.ucl.ac.uk/id/eprint/10209236/1/Navigating-Artificial-Intelligence-for-Cultural-Heritage-Organisations.pdf)
+
 
