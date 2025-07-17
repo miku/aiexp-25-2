@@ -70,72 +70,71 @@ You can do this with any document set.
 
 ### Ideation
 
-![](static/screenshot-2025-07-17-123447-bid-2025-ideation.png)
+[![](static/screenshot-2025-07-17-123447-bid-2025-ideation.png)](https://opus4.kobv.de/opus4-bib-info/files/19805/Stricker_Digitale_Editionen.pdf)
 
 ### Beratung (FAIR)
 
-![](static/screenshot-2025-07-17-123620-fair-chatbot.png)
+[![](static/screenshot-2025-07-17-123620-fair-chatbot.png)](https://opus4.kobv.de/opus4-bib-info/files/19765/Shigapov-Schmidt-Open-Source.pdf)
 
 * conventient, fast
 * dependent of third party infra
 
 ### KI Schulungen
 
-![](static/screenshot-2025-07-17-123754-ki-schulungen.png)
+[![](static/screenshot-2025-07-17-123754-ki-schulungen.png)](https://opus4.kobv.de/opus4-bib-info/files/19492/Respekt-wers-selber-macht_HandsOn_2025.pdf)
 
 * dynamische Entwicklung
 
 
 ### Future
 
-![](static/screenshot-2025-07-17-123950-bib-2030-1.png)
+[![](static/screenshot-2025-07-17-123950-bib-2030-1.png)](https://opus4.kobv.de/opus4-bib-info/files/19530/Snapshots.pdf)
 
-![](static/screenshot-2025-07-17-124156-bib-2030-2.png)
+[![](static/screenshot-2025-07-17-124156-bib-2030-2.png)](https://opus4.kobv.de/opus4-bib-info/files/19530/Snapshots.pdf)
 
 * does GLAM not have enough images?
 
 ### AI at a small social science university
 
-![](static/screenshot-2025-07-17-124340-hertie-1.png)
+[![](static/screenshot-2025-07-17-124340-hertie-1.png)](https://opus4.kobv.de/opus4-bib-info/files/19804/Presentation_AI_at_the_Hertie_School.pdf)
 
 
 ### Survey
 
-![](static/screenshot-2025-07-17-124455-survey-1.png)
+[![](static/screenshot-2025-07-17-124455-survey-1.png)](https://opus4.kobv.de/opus4-bib-info/files/19711/MIKS_UmfrageV3-OPUS.pdf)
 
 ### OER
 
-![](static/screenshot-2025-07-17-124627-oer.png)
+[![](static/screenshot-2025-07-17-124627-oer.png)](https://opus4.kobv.de/opus4-bib-info/files/19793/OER_Waldschmidt_Dietz_a.pdf)
 
 ### YAAK - Yet another Arbeitskreis
 
-![](static/screenshot-2025-07-17-124837-yaak.png)
+[![](static/screenshot-2025-07-17-124837-yaak.png)](https://opus4.kobv.de/opus4-bib-info/files/19821/Renner_Bremen_2025_KI.pdf)
 
 
 ### Writing Project
 
-![](static/screenshot-2025-07-17-125027-writing.png)
+[![](static/screenshot-2025-07-17-125027-writing.png)](https://opus4.kobv.de/opus4-bib-info/files/19712/KI_Kompetenzen.pdf)
 
 ### EDU
 
-![](static/screenshot-2025-07-17-125128-gpt-edu.png)
+[![](static/screenshot-2025-07-17-125128-gpt-edu.png)](https://opus4.kobv.de/opus4-bib-info/files/19770/Klatt_BiblioCon_20250619.pdf)
 
 ### Responsible Use
 
-![](static/screenshot-2025-07-17-125246-responsible-use-1.png)
+[![](static/screenshot-2025-07-17-125246-responsible-use-1.png)](https://opus4.kobv.de/opus4-bib-info/files/19841/Folien_fuer_Veroeffentlichung_Kasprzik.pdf)
+
 
 ### DNBLab
 
-![](static/screenshot-2025-07-17-125340-dnb.png)
+[![](static/screenshot-2025-07-17-125340-dnb.png)](https://opus4.kobv.de/opus4-bib-info/files/19497/DNBLab_KI_20250625.pdf)
 
 ### Service Chatbot
 
-![](static/screenshot-2025-07-17-125516-kit-chatbot.png)
-
+[![](static/screenshot-2025-07-17-125516-kit-chatbot.png)](https://opus4.kobv.de/opus4-bib-info/files/19795/BibKI_BiblioCon.pdf)
 
 
 ## References
 
 * [](https://discovery.ucl.ac.uk/id/eprint/10209236/1/Navigating-Artificial-Intelligence-for-Cultural-Heritage-Organisations.pdf)
-
 
