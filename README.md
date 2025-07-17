@@ -30,7 +30,7 @@ Numerous applications to run chat with your documents locally:
 $ ./gpt4all/bin/chat
 ```
 
-Index a folder of PDFs.
+Index and embed a folder of PDFs.
 
 ![](static/screenshot-2025-07-17-122222-gpt4all-embedding.png)
 
