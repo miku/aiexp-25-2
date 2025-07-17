@@ -22,8 +22,9 @@ Numerous applications to run chat with your documents locally:
 
 * [x] [GPT4ALL](https://www.nomic.ai/gpt4all) ([$17M](https://www.reuters.com/technology/open-source-ai-model-creator-nomic-raises-17-million-led-by-coatue-2023-07-13/), ...)
 * [x] [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)
-* [x] [AnythingLLM](https://anythingllm.com/desktop), [GitHub](https://github.com/Mintplex-Labs/anything-llm)
+* [x] [AnythingLLM](https://anythingllm.com/desktop), [GitHub](https://github.com/Mintplex-Labs/anything-llm), [YCS22](https://www.ycombinator.com/companies/mintplex-labs)
 * [x] [LMStudio](https://lmstudio.ai/)
+* [x] [Cherry Studio](https://github.com/CherryHQ/cherry-studio), [Site](https://www.cherry-ai.com/)
 * ...
 
 ```
