@@ -13,9 +13,8 @@
 
 #### Requirements
 
-* [ ] A desktop application
-* [ ] Either a GPU or an API to access a remote model (available through GWDG, Leibniz, etc.)
-
+* [ ] a desktop application to interact with LLM
+* [ ] either a GPU or an API to access a remote model (available through GWDG, Leibniz, etc.)
 
 #### Options
 
@@ -25,6 +24,7 @@ Numerous applications to run chat with your documents locally:
 * [x] [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)
 * [x] [AnythingLLM](https://anythingllm.com/desktop), [GitHub](https://github.com/Mintplex-Labs/anything-llm)
 * [x] [LMStudio](https://lmstudio.ai/)
+* ...
 
 ```
 $ ./gpt4all/bin/chat
@@ -39,34 +39,7 @@ Start dialogue.
 ![](static/screenshot-2025-07-17-123154-dialogue.png)
 
 
-### Chat/Search over a FT (wip)
-
-> Exploring a set of 22K docs and 500K pages with the help of AI
-
-What can the machine learn from this corpus?
-
-* let's cluster it into 2, 3, ..., 10 categories, what do we get?
-* let's embed the documents into a vector database and see which records are similar
-* let's embed paragraphs and see which documents are similar
-
-Matching queries against documents.
-
-* full text search
-* natural language query; LLM and RAG
-* natural language query to document query; fuzzy text, but exact query
-* query in images
-
-You can do this with any document set.
-
-### MCP server for catalogs (wip)
-
-* expose a library catalog to a chat interface
-* make it so that we can find books, text, new items, but also images, digitized pages, and more
-
 ## BID CONGRESS 2025 Review
-
-![](static/open-bid-2025-ki-keyword-rga-screenie.png)
-
 
 ### Ideation
 
@@ -133,6 +106,37 @@ You can do this with any document set.
 
 [![](static/screenshot-2025-07-17-125516-kit-chatbot.png)](https://opus4.kobv.de/opus4-bib-info/files/19795/BibKI_BiblioCon.pdf)
 
+### RGA]() "KI"
+
+* [ripgrep-all](https://github.com/phiresky/ripgrep-all) "KI"
+
+![](static/open-bid-2025-ki-keyword-rga-screenie.png)
+
+## WIP demos
+
+### Chat/Search over a FT (wip)
+
+> Exploring a set of 22K docs and 500K pages with the help of AI
+
+What can the machine learn from this corpus?
+
+* let's cluster it into 2, 3, ..., 10 categories, what do we get?
+* let's embed the documents into a vector database and see which records are similar
+* let's embed paragraphs and see which documents are similar
+
+Matching queries against documents.
+
+* full text search
+* natural language query; LLM and RAG
+* natural language query to document query; fuzzy text, but exact query
+* query in images
+
+You can do this with any document set.
+
+### MCP server for catalogs (wip)
+
+* expose a library catalog to a (local) chat interface
+* make it so that we can find books, text, new items, but also images, digitized pages, and more (similarity search)
 
 ## References
 
