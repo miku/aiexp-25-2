@@ -1,11 +1,11 @@
 # Libraries and AI (7/2025)
 
-> 2025-07-17, 13:00, Martin Czygan -- UBL KI MEETUP #4, "Document Chat" / [BIDC]() review
+> 2025-07-17, 13:00, Martin Czygan -- UBL KI MEETUP #4, Applications / "Document Chat" / [BIDC](https://2025.bid-kongress.de/) review
 
 ## Summaries
 
 * Navigating AI ...
-* Bibliothekskongress 2025 / AI TRACK, https://pdf-program.abstractserver.com/?congress=bid2025
+* Bibliothekskongress 2025 / AI TRACK, [https://pdf-program.abstractserver.com/?congress=bid2025](https://pdf-program.abstractserver.com/?congress=bid2025)
 
 ## Demos
 
