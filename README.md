@@ -67,6 +67,57 @@ You can do this with any document set.
 
 ![](static/open-bid-2025-ki-keyword-rga-screenie.png)
 
+
+### Ideation
+
+![](static/screenshot-2025-07-17-123447-bid-2025-ideation.png)
+
+### Beratung (FAIR)
+
+![](static/screenshot-2025-07-17-123620-fair-chatbot.png)
+
+* conventient, fast
+* dependent of third party infra
+
+### KI Schulungen
+
+![](static/screenshot-2025-07-17-123754-ki-schulungen.png)
+
+* dynamische Entwicklung
+
+
+### Future
+
+![](static/screenshot-2025-07-17-123950-bib-2030-1.png)
+
+![](static/screenshot-2025-07-17-124156-bib-2030-2.png)
+
+* does GLAM not have enough images?
+
+### AI at a small social science university
+
+![](static/screenshot-2025-07-17-124340-hertie-1.png)
+
+
+### Survey
+
+![](static/screenshot-2025-07-17-124455-survey-1.png)
+
+### OER
+
+![](static/screenshot-2025-07-17-124627-oer.png)
+
+### YAAK - Yet another Arbeitskreis
+
+![](static/screenshot-2025-07-17-124837-yaak.png)
+
+
+### Writing Project
+
+![](static/screenshot-2025-07-17-125027-writing.png)
+
+
+
 ## References
 
 * [](https://discovery.ucl.ac.uk/id/eprint/10209236/1/Navigating-Artificial-Intelligence-for-Cultural-Heritage-Organisations.pdf)
