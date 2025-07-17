@@ -106,7 +106,7 @@ Start dialogue.
 
 [![](static/screenshot-2025-07-17-125516-kit-chatbot.png)](https://opus4.kobv.de/opus4-bib-info/files/19795/BibKI_BiblioCon.pdf)
 
-### RGA]() "KI"
+### Grepping "KI"
 
 * [ripgrep-all](https://github.com/phiresky/ripgrep-all) "KI"
 
