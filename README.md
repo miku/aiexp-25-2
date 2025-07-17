@@ -6,11 +6,40 @@
 
 * Navigating AI ...
 * Bibliothekskongress 2025 / AI TRACK, https://pdf-program.abstractserver.com/?congress=bid2025
-* prompt prep
 
 ## Demos
 
-### Chat with your documents (PDF)
+### Chat with your local documents (PDF)
+
+#### Requirements
+
+* [ ] A desktop application
+* [ ] Either a GPU or an API to access a remote model (available through GWDG, Leibniz, etc.)
+
+
+#### Options
+
+Numerous applications to run chat with your documents locally:
+
+* [x] [GPT4ALL](https://www.nomic.ai/gpt4all) ([$17M](https://www.reuters.com/technology/open-source-ai-model-creator-nomic-raises-17-million-led-by-coatue-2023-07-13/), ...)
+* [x] [ChatRTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/)
+* [x] [AnythingLLM](https://anythingllm.com/desktop), [GitHub](https://github.com/Mintplex-Labs/anything-llm)
+* [x] [LMStudio](https://lmstudio.ai/)
+
+```
+$ ./gpt4all/bin/chat
+```
+
+Index a folder of PDFs.
+
+![](static/screenshot-2025-07-17-122222-gpt4all-embedding.png)
+
+Start dialogue.
+
+![](static/screenshot-2025-07-17-123154-dialogue.png)
+
+
+### Chat/Search over a FT (wip)
 
 > Exploring a set of 22K docs and 500K pages with the help of AI
 
@@ -29,7 +58,7 @@ Matching queries against documents.
 
 You can do this with any document set.
 
-### MCP server for catalogs
+### MCP server for catalogs (wip)
 
 * expose a library catalog to a chat interface
 * make it so that we can find books, text, new items, but also images, digitized pages, and more
