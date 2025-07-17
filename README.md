@@ -116,6 +116,22 @@ You can do this with any document set.
 
 ![](static/screenshot-2025-07-17-125027-writing.png)
 
+### EDU
+
+![](static/screenshot-2025-07-17-125128-gpt-edu.png)
+
+### Responsible Use
+
+![](static/screenshot-2025-07-17-125246-responsible-use-1.png)
+
+### DNBLab
+
+![](static/screenshot-2025-07-17-125340-dnb.png)
+
+### Service Chatbot
+
+![](static/screenshot-2025-07-17-125516-kit-chatbot.png)
+
 
 
 ## References
