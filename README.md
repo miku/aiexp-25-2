@@ -140,5 +140,5 @@ You can do this with any document set.
 
 ## References
 
-* [](https://discovery.ucl.ac.uk/id/eprint/10209236/1/Navigating-Artificial-Intelligence-for-Cultural-Heritage-Organisations.pdf)
+* [Navigating Artificial Intelligence for Cultural Heritage Organisations](https://discovery.ucl.ac.uk/id/eprint/10209236/1/Navigating-Artificial-Intelligence-for-Cultural-Heritage-Organisations.pdf)
 
